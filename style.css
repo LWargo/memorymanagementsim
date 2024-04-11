@@ -1,0 +1,273 @@
+.title{
+    color: rgb(96, 31, 77);
+    text-align: center;
+}
+body{
+    background-color: pink;
+    width: 100%;
+    max-width: 1024px;
+    min-width: 1024px;
+}
+p{
+    text-align: center;
+}
+h2{
+    margin-left: 45%;
+    margin-top: -185px;
+    font-size: 1.5rem;
+}
+.processes {
+    border: 1px solid;
+    text-align: center;
+    margin-left: 15%;
+  }
+  .rectangle-f1{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -25px;
+}
+.rectangle-f2{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f3{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f4{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f5{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f6{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f7{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f8{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f9{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+.rectangle-f10{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 45%;
+    margin-top: -1%;
+}
+h3{
+    margin-left: 650px;
+    margin-top: -291px;
+    font-size: 1.5rem;
+}
+.rectangle-w1{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -30px;
+}
+.rectangle-w2{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w3{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w4{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w5{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w6{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w7{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w8{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w9{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+.rectangle-w10{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 650px;
+    margin-top: -1%;
+}
+h4{
+    margin-left: 850px;
+    margin-top: -291px;
+    font-size: 1.5rem;
+}
+.rectangle-b1{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -30px;
+}
+.rectangle-b2{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b3{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b4{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b5{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b6{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b7{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b8{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b9{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
+.rectangle-b10{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    margin-left: 850px;
+    margin-top: -1%;
+}
