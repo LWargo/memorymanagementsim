@@ -8,6 +8,16 @@ body{
     max-width: 1024px;
     min-width: 1024px;
 }
+.button{
+    margin-left: 25%;
+    font-size: 2.5rem;
+    background-color: rgb(96, 31, 77);
+    color: rgb(88, 233, 255);
+}
+.button:hover{
+    cursor: pointer;
+    background-color: blue;
+}
 p{
     text-align: center;
 }

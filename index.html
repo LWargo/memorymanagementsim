@@ -2,7 +2,10 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="style.css"/>
-        <script type="text/javascript" src="functions.js"></script>
+        
+        <script type="text/javascript" src="functions.js">
+
+        </script>
         <style>
 
         </style>
@@ -10,6 +13,7 @@
     <body >
         <h1  class="title"> Memory Management Simulation</h1>
         <p> This simulation will run one set of processes, listed below, in First-Fit, Best-Fit, and Worst-Fit simoultanously</p>
+        <button class="button" onclick="runProcess()"> Click HERE to Run Process</button>
         <table class="processes">
             <tr>
                 <th class="processes"> Processes </th>
@@ -28,37 +32,37 @@
             </tr>
         </table>
         <h2> First-Fit</h2>
-        <div class="rectangle-f1" >10 KB</div>
-        <div class="rectangle-f2" >25 KB</div>
-        <div class="rectangle-f3" > 80 KB</div>
-        <div class="rectangle-f4" > 130 KB</div>
-        <div class="rectangle-f5" >5 KB</div>
-        <div class="rectangle-f6" > 130 KB</div>
-        <div class="rectangle-f7" > 75 KB</div>
-        <div class="rectangle-f8" >250 KB</div>
-        <div class="rectangle-f9" >25 KB</div>
-        <div class="rectangle-f10" > 250 KB</div>
+        <div id="f1" class="rectangle-f1" >10 KB</div>
+        <div id="f2"class="rectangle-f2" >25 KB</div>
+        <div id="f3"class="rectangle-f3" > 80 KB</div>
+        <div id="f4" class="rectangle-f4" > 130 KB</div>
+        <div id="f5" class="rectangle-f5" >5 KB</div>
+        <div id="f6" class="rectangle-f6" > 130 KB</div>
+        <div  id="f7" class="rectangle-f7" > 75 KB</div>
+        <div id="f8" class="rectangle-f8" >250 KB</div>
+        <div id="f9" class="rectangle-f9" >25 KB</div>
+        <div id="f10" class="rectangle-f10" > 250 KB</div>
         <h3> Worst-Fit</h3>
-        <div class="rectangle-w1" >10 KB</div>
-        <div class="rectangle-w2" >25 KB</div>
-        <div class="rectangle-w3" > 80 KB</div>
-        <div class="rectangle-w4" > 130 KB</div>
-        <div class="rectangle-w5" >5 KB</div>
-        <div class="rectangle-w6" > 130 KB</div>
-        <div class="rectangle-w7" > 75 KB</div>
-        <div class="rectangle-w8" >250 KB</div>
-        <div class="rectangle-w9" >25 KB</div>
-        <div class="rectangle-w10" > 250 KB</div>
+        <div id="w1" class="rectangle-w1" >10 KB</div>
+        <div id="w2" class="rectangle-w2" >25 KB</div>
+        <div id="w3" class="rectangle-w3" > 80 KB</div>
+        <div id="w4" class="rectangle-w4" > 130 KB</div>
+        <div id="w5"class="rectangle-w5" >5 KB</div>
+        <div id="w6" class="rectangle-w6" > 130 KB</div>
+        <div id="w7" class="rectangle-w7" > 75 KB</div>
+        <div id="w8" class="rectangle-w8" >250 KB</div>
+        <div id="w9"class="rectangle-w9" >25 KB</div>
+        <div id="w10" class="rectangle-w10" > 250 KB</div>
         <h4> Best-Fit</h4>
-        <div class="rectangle-b1" >10 KB</div>
-        <div class="rectangle-b2" >25 KB</div>
-        <div class="rectangle-b3" > 80 KB</div>
-        <div class="rectangle-b4" > 130 KB</div>
-        <div class="rectangle-b5" >5 KB</div>
-        <div class="rectangle-b6" > 130 KB</div>
-        <div class="rectangle-b7" > 75 KB</div>
-        <div class="rectangle-b8" >250 KB</div>
-        <div class="rectangle-b9" >25 KB</div>
-        <div class="rectangle-b10" > 250 KB</div>
+        <div id="b1" class="rectangle-b1" >10 KB</div>
+        <div id="b2"class="rectangle-b2" >25 KB</div>
+        <div id="b3"class="rectangle-b3" > 80 KB</div>
+        <div id="b4" class="rectangle-b4" > 130 KB</div>
+        <div id="b5" class="rectangle-b5" >5 KB</div>
+        <div id="b6" class="rectangle-b6" > 130 KB</div>
+        <div id="b7" class="rectangle-b7" > 75 KB</div>
+        <div id="b8" class="rectangle-b8" >250 KB</div>
+        <div id="b9" class="rectangle-b9" >25 KB</div>
+        <div id="b10" class="rectangle-b10" > 250 KB</div>
     </body>
 </html>
