@@ -3,6 +3,8 @@ function step10(){
     best.style.backgroundColor="yellow"; 
 }
 function step9(){
+    
+    alert("First-Fit has FAILED. No more processes can be allocated at this time!")
     best = document.getElementById("b7");
     best.style.backgroundColor="yellow"; 
 
@@ -14,7 +16,6 @@ function step8(){
     best = document.getElementById("b6");
     first.style.backgroundColor="red"; 
     best.style.backgroundColor="yellow"; 
-    alert("First-Fit has FAILED. No more processes can be allocated at this time!")
     setTimeout(()=>step9(),2000); 
 }
 function step7(){
